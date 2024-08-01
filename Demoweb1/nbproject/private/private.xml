@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mecha/OneDrive/Documentos/NetBeansProjects/Demoweb1/src/java/com/login/bean/LoginBean.java</file>
+            <file>file:/C:/Users/mecha/OneDrive/Documentos/NetBeansProjects/Demoweb1/src/java/com/login/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/mecha/OneDrive/Documentos/NetBeansProjects/Demoweb1/src/java/com/login/controller/LogoutServlet.java</file>
+            <file>file:/C:/Users/mecha/OneDrive/Documentos/NetBeansProjects/Demoweb1/web/Editor.jsp</file>
+            <file>file:/C:/Users/mecha/OneDrive/Documentos/NetBeansProjects/Demoweb1/src/java/com/login/util/DBConnection.java</file>
+            <file>file:/C:/Users/mecha/OneDrive/Documentos/NetBeansProjects/Demoweb1/web/Login.jsp</file>
+            <file>file:/C:/Users/mecha/OneDrive/Documentos/NetBeansProjects/Demoweb1/web/Admin.jsp</file>
+            <file>file:/C:/Users/mecha/OneDrive/Documentos/NetBeansProjects/Demoweb1/src/java/com/login/dao/LoginDao.java</file>
+            <file>file:/C:/Users/mecha/OneDrive/Documentos/NetBeansProjects/Demoweb1/web/User.jsp</file>
+        </group>
+    </open-files>
+</project-private>
